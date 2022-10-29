@@ -17,4 +17,4 @@ Launches the test runner in the interactive watch mode
 
 ## Link on demo
 
-https://mindbox-test-task-indol.vercel.app
+https://mindbox-test-task-5m26.vercel.app
