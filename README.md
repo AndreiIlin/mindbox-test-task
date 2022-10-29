@@ -1,2 +1,2 @@
-# mindbox-test-task-
-Testing task for Mindbox company. Todo list
+# mindbox-test-task
+Testing task for Mindbox company. Todo list.
